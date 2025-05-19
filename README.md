@@ -12,6 +12,8 @@ A Streamlit-based application that compares two Indian stocks using fundamental 
 - Risk assessment for Indian market conditions
 - Long-term growth potential analysis
 
+![Demo Screenshot](https://raw.githubusercontent.com/anandsuraj/ai-stock-comparison-agent-/refs/heads/main/demo-screenshot.png)
+
 ## Installation
 
 1. Clone this repository:
