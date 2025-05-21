@@ -21,7 +21,7 @@ if openai_api_key:
         instructions=[
             "Format your response using markdown and use tables to display data where possible.",
             "Focus on metrics relevant to Indian market investors.",
-            "Include sector-specific analysis for Indian industries."
+            "Include sector-specific analysis for Indian industries ."
         ],
     )
 
